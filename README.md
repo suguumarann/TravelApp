@@ -1,2 +1,2 @@
-# Travel App
+# TravelApp
 https://sugu-travel-app.netlify.app/
